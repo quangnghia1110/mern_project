@@ -1,0 +1,17 @@
+
+2024-11-21T00:30:38.126Z ::1 GET /api/v2/account
+2024-11-21T00:30:38.259Z ::1 GET / (304)
+2024-11-21T00:30:39.187Z ::1 GET /api/v2/products/search/suggest?keyword=
+2024-11-21T00:30:39.203Z ::1 POST /api/v2/cart
+2024-11-21T00:30:39.273Z ::1 GET /api/v2/categories?fields=name%20slug%20image
+2024-11-21T00:30:39.281Z ::1 GET /api/v2/brands?fields=name%20slug%20image
+2024-11-21T00:30:39.287Z ::1 GET /api/v2/discounts?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image
+2024-11-21T00:30:39.298Z ::1 GET /search/suggest?keyword= (304)
+2024-11-21T00:30:39.326Z ::1 POST / (200)
+2024-11-21T00:30:39.344Z ::1 GET /?fields=name%20slug%20image (304)
+2024-11-21T00:30:39.350Z ::1 GET /?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image (304)
+2024-11-21T00:30:39.496Z ::1 GET /?fields=name%20slug%20image (304)
+2024-11-21T00:30:39.635Z ::1 GET /api/v2/products?search=&page=1&limit=20&b=&c=
+2024-11-21T00:30:40.111Z ::1 GET /?search=&page=1&limit=20&b=&c= (200)
+2024-11-21T00:30:41.525Z ::1 GET /api/v2/products/best-seller
+2024-11-21T00:30:41.614Z ::1 GET /best-seller (304)
